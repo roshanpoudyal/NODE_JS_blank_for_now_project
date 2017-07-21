@@ -26,7 +26,7 @@
        > Node.js - may be i wil find more use of it then website serving in future, 
          but want this to be a nodejs project.
        > Javascript
-    * Game engine : _Pixi.js_.
+    * Game engine : Pixi.js.
     
   ## Game Mechanics :
      * Main idea : is to learn about _force_.
