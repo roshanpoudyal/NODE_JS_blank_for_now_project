@@ -1,6 +1,6 @@
 # game development / node.js / Machine learning / web project
 1. A node.js / game development project - to practive game development and node.js and implement my idea.
-2. Here is a (prototype)[game_prototype_balance_your_forces.jpg] of the game.
+2. Here is a [prototype](game_prototype_balance_your_forces.jpg) of the game.
 3. Intention is to learn the following :
     * Technology wise : 
        > Node.js
@@ -29,7 +29,7 @@
     * Game engine : Pixi.js.
     
   ## Game Mechanics :
-     * Main idea : is to learn about _force_.
+     * Main idea : is to learn about concept of force.
      * World : 
         > Levels can be multiple with different environment features.
         > OR, later expanded to 
