@@ -1,5 +1,5 @@
 # game development / node.js / Machine learning / web project
-1. A node.js / game development project - to practive game development and node.js and implement my idea.
+1. A node.js / game development project - to practice game development, node.js, game AI, machine learning.
 2. Here is a [prototype](game_prototype_balance_your_forces.jpg) of the game.
 3. Intention is to learn the following :
     * Technology wise : 
