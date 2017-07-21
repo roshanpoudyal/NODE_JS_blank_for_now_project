@@ -62,8 +62,8 @@
          ~ give powerUps to decrease those difficulty.
          ~ Use Machine learning algorithms for adaptation strategies.
      * Game AI :
-        > Use machine learning for adaptation e.g., **evolutionary algorithms**, **reinforcement learning**
-          , **Q-learning**, **neural networks** etc. **specially unsupervised learning methods**.
+        > Use machine learning for game adaptivity e.g., evolutionary algorithms, reinforcement learning,
+          Q-learning, neural networks etc. specially unsupervised learning methods.
         > Behaviour AI of enemy and environment to give more variety to game.
         > Enemy AI gets more adaptive to increase difficulty.
        
