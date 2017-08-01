@@ -65,5 +65,10 @@
         > Use machine learning for game adaptivity e.g., evolutionary algorithms, reinforcement learning,
           Q-learning, neural networks etc. specially unsupervised learning methods.
         > Behaviour AI of enemy and environment to give more variety to game.
-        > Enemy AI gets more adaptive to increase difficulty.
+        > Enemy AI gets more adaptive by evolving through observation of player's gameplay (elements that 
+          define gameplay has to be choosen), using evolutionary+reinforcement learning algorithm. Each 
+          generation of new enemy will evolve by learning, i.e. one enemey dies but the learning gets 
+          transferred to the upcoming enemy.
+        > Environment and its features - gravity, storm, wind, objects etc get evolved 
+          according to the player gameplay improvement.
        
