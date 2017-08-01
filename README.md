@@ -1,32 +1,29 @@
-# game development / node.js / Prepare a Machine learning platform for myself / web project
-1. A node.js / game development project - to practice game development, node.js, game AI, machine learning.
+# game development / Unity3D / Prepare a Machine learning platform for myself
+1. A Unity3D game development project - to practice game development, game AI, machine learning.
 2. Here is a [prototype](game_prototype_balance_your_forces.jpg) of the game.
 3. Intention is to learn the following :
-    * Technology wise : 
-       > Node.js
-       > Unity 3d with future expansion. (Maybe Unreal engine for C++ too - very far in future.)
+    * Technology wise :
+       > Unity3D.(Maybe Unreal engine for C++ too - very far in future.)
        > Android development and Android NDK for game physics and graphics with future expansion.
     * Concept wise : 
-      ~ Game Development, Game physics and Computer graphics.
-      ~ Game adaptivity, AI and Machine learning : Computer simulation and computer games are nice 
+      > Game Development, Game physics and Computer graphics.
+      > Game adaptivity, AI and Machine learning : Computer simulation and computer games are nice 
         platform to learn and implement AI and machine learning.
-      ~ Procedural Content generation in game development.
-      ~ Little bit learn about sound and music, mathematically.
+      > Procedural Content generation in game development.
+      > Little bit learn about mathematics behind sound and music.
 
 # Game purposal :
  ## Technical considerations :
     * Platform : 
-       > 2D / Web. 
+       > 2D on Unity3D game engine. 
        > Future considerations (priority ascending) :
-           ~ Android port of stable 2D version.
-           ~ 3D game - which is port of the best version of the stable 2D (Use Unity3D).
-           ~ Android port of stable 3D.          
+           > Android port of stable 2D version.
+           > 3D game - which is port of the best version of the stable 2D (Use Unity3D).
+           > Android port of stable 3D.          
        
     * Technologies : 
-       > Node.js - may be i wil find more use of it then website serving in future, 
-         but want this to be a nodejs project.
-       > Javascript
-    * Game engine : Pixi.js.
+       > Unity3D
+    * Game engine : Unity3D.
     
   ## Game Mechanics :
      * Main idea : is to learn about concept of force.
