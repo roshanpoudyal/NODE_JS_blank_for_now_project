@@ -12,7 +12,7 @@
       > Procedural Content generation in game development.
       > Little bit learn about mathematics behind sound and music.
 
-# Game purposal :
+# Game Proposal :
  ## Technical considerations :
     * Platform : 
        > 2D on Unity3D game engine. 
